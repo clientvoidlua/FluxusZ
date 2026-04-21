@@ -1,5 +1,4 @@
--- open sourced thanks to fsploit for this
--- fixed by me
+-- ignore ts shit i thought it was fixed and optimized (fully broken brochaco😭)
 repeat task.wait() until game:IsLoaded()
 
 local Players          = game:GetService("Players")
